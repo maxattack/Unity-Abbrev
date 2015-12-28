@@ -1,6 +1,6 @@
 Simple abbreviations for working with math types in Unity in a pithy way: terse constructors, vector swizzling, short/readable extension methods, etc.
 
-Clever pull-requests welcome :)
+Clever pull-requests welcome. The only "rule" is to keep everything as pure static functions.
 
 ---
 This is free and unencumbered software released into the public domain.
